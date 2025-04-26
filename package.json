@@ -1,5 +1,23 @@
 {
+<<<<<<< HEAD
+  "name": "student-doctor-api",
+  "version": "1.0.0",
+  "description": "Simple Node.js API to manage students and doctors",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0",
+    "mongoose": "^7.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.0"
+=======
   "dependencies": {
     "express": "^5.1.0"
+>>>>>>> upstream/main
   }
 }
